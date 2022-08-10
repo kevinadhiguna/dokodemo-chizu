@@ -2,10 +2,14 @@
 
 Dokodemo Chizu is a web app powered by Mapbox that enables you to search how to go to a place and the direction in a map.
 
+<br />
+
 ## Demo
 
 This is how this app looks : <br />
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dokodemo-chizu/master/demo/0.full.png" />
+
+<br />
 
 ### Example Use Cases :
 
@@ -24,8 +28,12 @@ No idea how to travel to Osaka form Tokyo ? Here is the clue presented by Dokode
 You sure do not wanna miss El Clasico right? Here is how to get to Camp Nou from Santiago Bernabeu stadium ! <br />
 <img src="https://raw.githubusercontent.com/kevinadhiguna/dokodemo-chizu/master/demo/5.elClasico.png" /> <br />
 
+<br />
+
 ## Reference
 
 - [How To Use Mapbox To Create A Google Maps Clone Quickly by Web Dev Simplified](https://youtu.be/OySigNMXOZU)
+
+<br />
 
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/dokodemo-chizu)](https://github.com/kevinadhiguna)
